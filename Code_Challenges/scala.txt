@@ -1,0 +1,7 @@
+The common wisdom is that one must abandon static typing to eliminate the boilerplate, and there is a rising interest in dynamic languages such as Python, Ruby, and Groovy. 
+This common wisdom is debunked by the existence of Martin’s latest brainchild, Scala.
+Scala is a tastefully typed language: it is statically typed, but explicit types appear in just the right places. 
+Scala takes powerful features from object-oriented and functional languages, and combines them with a few novel ideas in a beautifully coherent whole. 
+The syntax is so lightweight, and its primitives so expressive, that APIs can be used with virtually no syntactic overhead at all. 
+Examples can be found in standard libraries such as parser combinators and actors. 
+In this sense Scala supports embedded domain-specific languages.

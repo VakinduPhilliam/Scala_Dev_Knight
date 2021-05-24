@@ -1,5 +1,5 @@
 # Scala_Dev_Knight
-Principle Scala Coding Techniques, Exercises, &amp; Challenges.
+Principle Scala Data handling Techniques, Exercises, &amp; Coding Challenges.
 
 ## Part I: Advanced Scala Concepts.
 

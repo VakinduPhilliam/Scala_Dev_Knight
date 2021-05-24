@@ -35,6 +35,7 @@ Principle Scala Data handling Techniques, Exercises, &amp; Coding Challenges.
 1. Traits
 
 
+
 ## Part II: Scala Coding Exercises.
 Scala Coding Techniques, Exercises, Challenges and their Solutions:
 In this part of the repository we explore some popular scala interview coding questions and their solutions.

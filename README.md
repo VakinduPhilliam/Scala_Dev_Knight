@@ -45,26 +45,26 @@ The list includes Junior level, Mid-level and Senior Level Scala coding exercise
 ### Scala Interview Coding Challenges:
 List of over 60 Scala Interview Coding Exercises, Questions and their solutions:
 
-1. Scala Inheritance OOP new Public (Mid Level Scala Developer).
-2. Data Function Pipeline Processing (Senior Level Scala Developer).
-3. Vector Merging Implementation (Junior Level Scala Developer).
-4. Immutability of Vectors (Senior Level Scala Developer).
-5. Factorial of N (Mid Level Scala Developer).
-6. Frequency Occurrence Mapping (Senior Level Scala Developer).
-7. Anagram Detector (Junior Level Scala Developer).
-8. Nth Fibonacci Number (Mid Level Scala Developer).
-9. Print Odd Numbers (Junior Level Scala Developer).
-10. Sentence Word Frequency Count (Senior Level Scala Developer).
-11. Longest Word in Sentence (Senior Level Scala Developer).
-12. Most Frequent Word in Array (Senior Level Scala Developer).
-13. Order by Descending Frequency (Senior Level Scala Developer).
-14. Largest Number in Array (Junior Level Scala Developer).
-15. Sum of Numbers in an Array (Junior Level Scala Developer).
-16. Nth Highest Frequency (Senior Level Scala Developer).
-17. Array in Ascending Order (Junior Level Scala Developer). 
-18. Array in Descending Order (Junior Level Scala Developer). 
-19. Is a Prime Number (Mid Level Scala Developer).
-20. Prime Numbers in an Array (Mid Level Scala Developer).
+1. [Scala Inheritance OOP new Public (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Scala_Inheritance_OOP.scala).
+2. [Data Function Pipeline Processing (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Data_Function_Pipeline_Processing.scala).
+3. [Vector Merging Implementation (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Vector_Implementation.scala).
+4. [Immutability of Vectors (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Immutability_of_Vectors.scala).
+5. [Factorial of N (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Factorial_of_N.scala).
+6. [Frequency Occurrence Mapping (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Frequency_Occurrence_Mapping.scala).
+7. [Anagram Detector (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Anagram_Detector.scala).
+8. [Nth Fibonacci Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Fibonacci_Number.scala).
+9. [Print Odd Numbers (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Print_Odd_Numbers.scala).
+10. [Sentence Word Frequency Count (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Sentence_Word_Count.scala).
+11. [Longest Word in Sentence (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Longest_Word_Sentence.scala).
+12. [Most Frequent Word in Array (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Most_Frequent_Word_in_Array.scala).
+13. [Order by Descending Frequency (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Order_by_Descending_Frequency.scala).
+14. [Largest Number in Array (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Largest_Number_in_Array.scala).
+15. [Sum of Numbers in an Array (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Numbers_Sum.scala).
+16. [Nth Highest Frequency (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Highest_Frequency.scala).
+17. [Array in Ascending Order (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Ascending_Order.scala). 
+18. [Array in Descending Order (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Descending_Order.scala). 
+19. [Is a Prime Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Is_Prime_Number.scala).
+20. [Prime Numbers in an Array (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Prime_Numbers_in_Array.scala).
 21. Digits in a Number (Junior Level Scala Developer).
 22. Syphoning Numbers by Digit (Senior Level Scala Developer).
 23. Anagrams in an Array (Mid Level Scala Developer).

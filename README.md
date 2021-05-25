@@ -85,26 +85,26 @@ List of over 60 Scala Interview Coding Exercises, Questions and their solutions:
 38. [Square Roots of Integers in Array (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Squares_Roots_of_Integers_in_Array.scala).
 39. [Regex to Identify Words in String (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_to_Identify_Words_in_String.scala).
 40. [Regex Integer Only (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_Integer_Only.scala).
-41. Regex Letters Only (Mid Level Scala Developer).
-42. Regex Alphanumeric Only (Mid Level Scala Developer).
-43. Regex for is Valid Email Address (Mid Level Scala Developer).
-44. Parentheses Validator (Senior Level Scala Developer).
-45. Sum Non-consecutive Numbers in Array  (Mid Level Scala Developer).
-46. Hashset Two Sum (Senior Level Scala Developer).
-47. Longest Increasing Sub-sequence (Senior Level Scala Developer).
-48. Wild Card Pattern Matching (Senior Level Scala Developer).
-49. File Frequency Occurrence Mapping (Senior Level Scala Developer).
-50. File Order by Descending Frequency (Senior Level Scala Developer).
-51. File Nth Highest Frequency (Senior Level Scala Developer).
-52. File Number and Frequency Equality (Senior Level Scala Developer).
-53. Prime numbers less than n (Junior Level Scala Developer).
-54. Odd numbers less than n (Junior Level Scala Developer).
-55. Even numbers less than n (Junior Level Scala Developer).
-56. Square numbers less than n (Junior Level Scala Developer).
-57. Number Anagrams less than n (Senior Level Scala Developer).
-58. Nth Prime Number (Mid Level Scala Developer).
-59. Nth Square Number (Mid Level Scala Developer).
-60. Nth Odd Number (Mid Level Scala Developer).
-61. Nth Even Number (Mid Level Scala Developer).
-62. Nth Number Anagram (Senior Level Scala Developer).
-63. Bubble Sort Algorithm (Senior Level Scala Developer).
+41. [Regex Letters Only (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_Letters_Only.scala).
+42. [Regex Alphanumeric Only (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_Alphanumeric_Only.scala).
+43. [Regex for is Valid Email Address (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_for_Valid_Email.scala).
+44. [Parentheses Validator (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Parentheses_Validator.scala).
+45. [Sum Non-consecutive Numbers in Array  (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Non_Consecutive_Sum.scala).
+46. [Hashset Two Sum (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Hashset_Two_Sum.scala).
+47. [Longest Increasing Sub-sequence (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Longest_Increasing_Sub_sequence.scala).
+48. [Wild Card Pattern Matching (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Wild_Card_Pattern_Matching.scala).
+49. [File Frequency Occurrence Mapping (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/File_Frequency_Occurrence_Mapping.scala).
+50. [File Order by Descending Frequency (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/File_Order_by_Descending_Frequency.scala).
+51. [File Nth Highest Frequency (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/File_Nth_Highest_Frequency.scala).
+52. [File Number and Frequency Equality (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/File_Number_Frequency_Equality.scala).
+53. [Prime numbers less than n (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Prime_Numbers_less_than_N.scala).
+54. [Odd numbers less than n (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Odd_Numbers_less_than_N.scala).
+55. [Even numbers less than n (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Even_Numbers_less_than_N.scala).
+56. [Square numbers less than n (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Square_Numbers_less_than_N.scala).
+57. [Number Anagrams less than n (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Number_Anagrams_less_than_N.scala).
+58. [Nth Prime Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Prime_Number.scala).
+59. [Nth Square Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Square_Number.scala).
+60. [Nth Odd Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Odd_Number.scala).
+61. [Nth Even Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Even_Number.scala).
+62. [Nth Number Anagram (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Nth_Number_Anagram.scala).
+63. [Bubble Sort Algorithm (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Bubble_Sort_Algorithm.scala).

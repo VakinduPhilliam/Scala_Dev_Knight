@@ -65,26 +65,26 @@ List of over 60 Scala Interview Coding Exercises, Questions and their solutions:
 18. [Array in Descending Order (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Descending_Order.scala). 
 19. [Is a Prime Number (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Is_Prime_Number.scala).
 20. [Prime Numbers in an Array (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Prime_Numbers_in_Array.scala).
-21. Digits in a Number (Junior Level Scala Developer).
-22. Syphoning Numbers by Digit (Senior Level Scala Developer).
-23. Anagrams in an Array (Mid Level Scala Developer).
-24. Zero Sum Combination (Senior Level Scala Developer).
-25. Combination Sum in Numbers Array (Senior Level Scala Developer).
-26. Maximum Possible Combination Sum (Senior Level Scala Developer).
-27. Missing Number in Array (Mid Level Scala Developer).
-28. Number and its Frequency are Equal (Senior Level Scala Developer).
-29. Index Position Summations (Mid Level Scala Developer).
-30. Fizz Buzz (Junior Level Scala Developer).
-31. Kadane's Algorithm with Dynamic Programming (Senior Level Scala Developer).
-32. Array Integer Intersection (Junior Level Scala Developer).
-33. Array String Intersection (Junior Level Scala Developer).
-34. Array Intersection Length (Junior Level Scala Developer).
-35. Palindrome Chain Length (Senior Level Scala Developer).
-36. Student Circular Prank (Senior Level Scala Developer).
-37. Squares of Integers in Array (Junior Level Scala Developer).
-38. Square Roots of Integers in Array (Junior Level Scala Developer)
-39. Regex to Identify Words in String (Mid Level Scala Developer).
-40. Regex Integer Only (Mid Level Scala Developer).
+21. [Digits in a Number (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Digits_in_a_Number.scala).
+22. [Syphoning Numbers by Digit (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Syphoning_Numbers_by_Digit.scala).
+23. [Anagrams in an Array (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Anagrams_in_an_Array.scala).
+24. [Zero Sum Combination (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Zero_Sum_Combination.Scala).
+25. [Combination Sum in Numbers Array (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Combination_Sum_Numbers_Array.scala).
+26. [Maximum Possible Combination Sum (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Maximum_Possible_Combination_Sum.scala).
+27. [Missing Number in Array (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Missing_Number_in_Array.scala).
+28. [Number and its Frequency are Equal (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Number_and_its_Frequency_are_Equal.scala).
+29. [Index Position Summations (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Index_Position_Summations.scala).
+30. [Fizz Buzz (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Fizz_Buzz.Scala).
+31. [Kadane's Algorithm with Dynamic Programming (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Kadanes_Algorithm_Dynamic_Programming.scala).
+32. [Array Integer Intersection (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Intersection.scala).
+33. [Array String Intersection (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_String_Intersection.scala).
+34. [Array Intersection Length (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_String_Intersection_Length.scala).
+35. [Palindrome Chain Length (Senior Level Scala Developer)]().
+36. [Student Circular Prank (Senior Level Scala Developer)]().
+37. [Squares of Integers in Array (Junior Level Scala Developer)]().
+38. [Square Roots of Integers in Array (Junior Level Scala Developer)]().
+39. [Regex to Identify Words in String (Mid Level Scala Developer)]().
+40. [Regex Integer Only (Mid Level Scala Developer)]().
 41. Regex Letters Only (Mid Level Scala Developer).
 42. Regex Alphanumeric Only (Mid Level Scala Developer).
 43. Regex for is Valid Email Address (Mid Level Scala Developer).

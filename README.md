@@ -5,9 +5,9 @@ Principle Scala Data handling Techniques, Exercises, &amp; Coding Challenges.
 
 ### Scala Type System:
 1. [Polymorphism](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Type_System/Polymorphism.scala).
-2. Upper Type Bounds.
-3. Lower Type Bounds.
-4. Upper Type Bounds (Ordered Merge Sort).
+2. [Upper Type Bounds](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Type_System/Upper_Type_Bounds.scala).
+3. [Lower Type Bounds](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Type_System/Lower_Type_Bounds.scala).
+4. [Upper Type Bounds (Ordered Merge Sort)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Type_System/Upper_Type_Bounds.scala).
 
 ### Scala Variance Type Parameters:
 1. Covariant Type Parameters.

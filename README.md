@@ -10,29 +10,29 @@ Principle Scala Data handling Techniques, Exercises, &amp; Coding Challenges.
 4. [Upper Type Bounds (Ordered Merge Sort)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Type_System/Upper_Type_Bounds_Ordered_Merge_Sort.scala).
 
 ### Scala Variance Type Parameters:
-1. Covariant Type Parameters.
+1. [Covariant Type Parameters](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Variance/Covariant_Type_Parameters.scala).
 
 ### Scala Higher Order Functions:
-1. Higher Order Functions.
+1. [Higher Order Functions](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Higher_Order_Functions/Higher_Order_Functions.scala).
 
 ### Scala Currying:
-1. Currying.
+1. [Currying](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Currying/Currying.scala).
 
 ### Scala Implicit Parameters:
-1. Implicit Parameters.
+1. [Implicit Parameters](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Implicit_Parameters/Implicit_Parameters.scala).
 
 ### Scala Sequence Comprehensions:
-1. Scala Sequence Comprehensions (Example 1).
-2. Scala Sequence Comprehensions (Example 2).
+1. [Scala Sequence Comprehensions (Example 1)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Sequence_Comprehensions/Sequence_Comprehensions_Example_I.scala).
+2. [Scala Sequence Comprehensions (Example 2)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Sequence_Comprehensions/Sequence_Comprehensions_Example_II.scala).
 
 ### Scala Futures:
-1. Scala Future (Example 1).
-2. Scala Future (Example 2).
-3. Scala Future (Example 3).
-4. Scala Future with Failure Exception Handling (Example 4).
+1. [Scala Future (Example 1)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Futures/Scala_Futures_Example_I.scala).
+2. [Scala Future (Example 2)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Futures/Scala_Futures_Example_II.scala).
+3. [Scala Future (Example 3)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Futures/Scala_Futures_Example_III.scala).
+4. [Scala Future with Failure Exception Handling (Example 4)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Futures/Scala_Futures_Example_IV.scala).
 
 ### Scala Traits:
-1. Traits
+1. [Traits](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Traits/Scala_Traits.scala).
 
 
 

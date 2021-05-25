@@ -79,12 +79,12 @@ List of over 60 Scala Interview Coding Exercises, Questions and their solutions:
 32. [Array Integer Intersection (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_Intersection.scala).
 33. [Array String Intersection (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_String_Intersection.scala).
 34. [Array Intersection Length (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Array_String_Intersection_Length.scala).
-35. [Palindrome Chain Length (Senior Level Scala Developer)]().
-36. [Student Circular Prank (Senior Level Scala Developer)]().
-37. [Squares of Integers in Array (Junior Level Scala Developer)]().
-38. [Square Roots of Integers in Array (Junior Level Scala Developer)]().
-39. [Regex to Identify Words in String (Mid Level Scala Developer)]().
-40. [Regex Integer Only (Mid Level Scala Developer)]().
+35. [Palindrome Chain Length (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Palindrome_Chain_Length.scala).
+36. [Student Circular Prank (Senior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Student_Circular_Prank.scala).
+37. [Squares of Integers in Array (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Squares_of_Integers_in_Array.scala).
+38. [Square Roots of Integers in Array (Junior Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Squares_Roots_of_Integers_in_Array.scala).
+39. [Regex to Identify Words in String (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_to_Identify_Words_in_String.scala).
+40. [Regex Integer Only (Mid Level Scala Developer)](https://github.com/VakinduPhilliam/Scala_Dev_Knight/blob/main/Code_Challenges/Regex_Integer_Only.scala).
 41. Regex Letters Only (Mid Level Scala Developer).
 42. Regex Alphanumeric Only (Mid Level Scala Developer).
 43. Regex for is Valid Email Address (Mid Level Scala Developer).
